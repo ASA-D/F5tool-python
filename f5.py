@@ -11,7 +11,7 @@ import asyncore
 winsound.Beep(234,1000)
 #ようこそ画面
 
-print("Garm")
+print("Fimbulvetr")
 a = input("コマンドを入力してください")
 
 #コマンドに応じた処理
